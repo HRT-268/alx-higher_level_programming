@@ -1,0 +1,6 @@
+#!/bin/bash
+
+import os
+$PYFILE = os.environ[#!/usr/bin/python3]
+print($PYFILE)
+
