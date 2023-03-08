@@ -1,6 +1,5 @@
 #!/bin/bash
 
 import os
-$PYFILE = os.environ[#!/usr/bin/python3]
-print($PYFILE)
+$PYFILE = os.eviron[$PYFILE-#!/usr/bin/python3]
 
