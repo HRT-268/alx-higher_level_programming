@@ -1,5 +1,3 @@
 #!/bin/bash
-
-import os
 $PYFILE = os.eviron[$PYFILE-#!/usr/bin/python3]
 
